@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/saugnik/Saugnik/blob/main/i-want-a-banner_65996656.png)
 <h1 align="center">Hi 👋, I'm Saugnik</h1>
 <h3 align="center">Electrical Engineer and a Computer Science Enthusiast from India</h3>
 
