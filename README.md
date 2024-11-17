@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Saugnik</h1>
 <h3 align="center">Electrical Engineer and a Computer Science Enthusiast from India</h3>
 
-<omg align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saugnik&label=Profile%20views&color=0e75b6&style=flat" alt="saugnik" /> </p>
 
